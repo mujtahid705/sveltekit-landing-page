@@ -11,7 +11,7 @@
 			class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl max-w-[1200px] mx-auto w-full text-center font-semibold"
 		>
 			Finding
-			<span class="text-indigo-400">Fashion</span>
+			<span class="text-indigo-400">Elegance </span>
 
 			<span class="text-slate-600 line-through"> Is Hard </span><br />
 			Just Got <span class="text-indigo-400">Easier</span>
